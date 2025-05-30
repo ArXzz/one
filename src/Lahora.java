@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Lahora {
+public class hora {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
